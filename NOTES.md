@@ -91,3 +91,11 @@ seasonality, so the bot follows the live trend, not the calendar.
   to build the bot; they live outside the repo in
   ~/workspace/tools/makefun/btc-race-dev/ (dev aids, not part of the
   graded program).
+
+## Submission
+- Submission: 01a2074a-d138-76c0-bbfb-b29676101896 (submitted 23 Nov 2026 ~14:24 WIB on Joni's "Setuju")
+- Entry commit: b9057a29192d485229685abc06137b7403a34a78
+- Stage: scored (passed checks)
+- Bundle: ~/workspace/tools/makefun/bundles/btc-race-20261123-0511-bundle.tar.gz (466,230 B, sha256 d11d0a0754b616900a2b2e636749eb05b72a61902c24f36057800485bf9a3779)
+- Kit check: ok=true, failed=[] (3 intake items deferred to server, all hand-verified: repo created 07:08:16Z after open 05:11:00Z, commit in repo, original files)
+- Claim code: saved ONLY in ~/.config/makefun/btc-race-24h-20261123-0511-submission.json (0600)
